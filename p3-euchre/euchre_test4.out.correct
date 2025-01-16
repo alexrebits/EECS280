@@ -1,0 +1,96 @@
+./euchre.exe pack4.in noshuffle 1 Neil Simple Alex Human Kaustubh Simple Leah Human 
+Hand 0
+Neil deals
+Ten of Spades turned up
+Human player Alex's hand: [0] Nine of Hearts
+Human player Alex's hand: [1] Queen of Spades
+Human player Alex's hand: [2] Queen of Hearts
+Human player Alex's hand: [3] King of Spades
+Human player Alex's hand: [4] Ace of Spades
+Human player Alex, please enter a suit, or "pass":
+Alex passes
+Kaustubh passes
+Human player Leah's hand: [0] Nine of Spades
+Human player Leah's hand: [1] Jack of Spades
+Human player Leah's hand: [2] Jack of Hearts
+Human player Leah's hand: [3] Queen of Clubs
+Human player Leah's hand: [4] Ace of Hearts
+Human player Leah, please enter a suit, or "pass":
+Leah orders up Spades
+
+Human player Alex's hand: [0] Nine of Hearts
+Human player Alex's hand: [1] Queen of Spades
+Human player Alex's hand: [2] Queen of Hearts
+Human player Alex's hand: [3] King of Spades
+Human player Alex's hand: [4] Ace of Spades
+Human player Alex, please select a card:
+Nine of Hearts led by Alex
+King of Hearts played by Kaustubh
+Human player Leah's hand: [0] Nine of Spades
+Human player Leah's hand: [1] Jack of Spades
+Human player Leah's hand: [2] Jack of Hearts
+Human player Leah's hand: [3] Queen of Clubs
+Human player Leah's hand: [4] Ace of Hearts
+Human player Leah, please select a card:
+Ace of Hearts played by Leah
+Nine of Diamonds played by Neil
+Leah takes the trick
+
+Human player Leah's hand: [0] Nine of Spades
+Human player Leah's hand: [1] Jack of Spades
+Human player Leah's hand: [2] Jack of Hearts
+Human player Leah's hand: [3] Queen of Clubs
+Human player Leah, please select a card:
+Jack of Spades led by Leah
+Ten of Spades played by Neil
+Human player Alex's hand: [0] Queen of Spades
+Human player Alex's hand: [1] Queen of Hearts
+Human player Alex's hand: [2] King of Spades
+Human player Alex's hand: [3] Ace of Spades
+Human player Alex, please select a card:
+Queen of Spades played by Alex
+Jack of Clubs played by Kaustubh
+Leah takes the trick
+
+Human player Leah's hand: [0] Nine of Spades
+Human player Leah's hand: [1] Jack of Hearts
+Human player Leah's hand: [2] Queen of Clubs
+Human player Leah, please select a card:
+Jack of Hearts led by Leah
+Ten of Clubs played by Neil
+Human player Alex's hand: [0] Queen of Hearts
+Human player Alex's hand: [1] King of Spades
+Human player Alex's hand: [2] Ace of Spades
+Human player Alex, please select a card:
+Queen of Hearts played by Alex
+Ten of Hearts played by Kaustubh
+Alex takes the trick
+
+Human player Alex's hand: [0] King of Spades
+Human player Alex's hand: [1] Ace of Spades
+Human player Alex, please select a card:
+King of Spades led by Alex
+King of Diamonds played by Kaustubh
+Human player Leah's hand: [0] Nine of Spades
+Human player Leah's hand: [1] Queen of Clubs
+Human player Leah, please select a card:
+Nine of Spades played by Leah
+King of Clubs played by Neil
+Alex takes the trick
+
+Human player Alex's hand: [0] Ace of Spades
+Human player Alex, please select a card:
+Ace of Spades led by Alex
+Ace of Clubs played by Kaustubh
+Human player Leah's hand: [0] Queen of Clubs
+Human player Leah, please select a card:
+Queen of Clubs played by Leah
+Ace of Diamonds played by Neil
+Alex takes the trick
+
+Alex and Leah win the hand
+march!
+Neil and Kaustubh have 0 points
+Alex and Leah have 2 points
+
+Alex and Leah win!
